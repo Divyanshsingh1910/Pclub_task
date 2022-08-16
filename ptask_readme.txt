@@ -1,0 +1,3 @@
+In this task I have imported the dataset from sklearn and used the gradient descent to do linear regression. For, simplicity I have taken number of features as 5 and used used test-train split function of sklearn. I
+
+                                                     I used mean squared error to calculate the loss after each iteration and update the weights accordingly. At last I have shown mean squared error and r2score of the model.
